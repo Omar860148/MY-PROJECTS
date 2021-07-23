@@ -9,7 +9,7 @@ This repesitory is for my own projects MOSTLY ON DEVELOPMENT OF AN ONLINE ICT AC
 
 &nbsp;
 
-## COMPUTER SYSTEMS PROJECTS.
+## DEVELOPING COMPUTER SYSTEMS ALSO INCLUDED.
 
 ## Sofware Requirement Specification
 
