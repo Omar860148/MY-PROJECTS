@@ -1,31 +1,23 @@
-# MY-PROJECTS
-BIULDING WEBSITES AND PORTFOLIOS.
+# ZETECH UNIVERSITY
 
-# OMAR MOHAMMED NOOR
+## ICT Department
 
-## SOFTWARE ENGINEERING FIELD.
-
-This repesitory is for my own projects MOSTLY ON DEVELOPMENT OF AN ONLINE ICT ACCES SYSTEM,WEBSITES,BLOGS AND PERSONAL PORTFOLIOS.
+This repesitory is for the last project of DIPLOMA IN  SOFWARE ENGINEERING Course work. Collaborated by 4 members Omar moh'dNoor (Spokesperson), Kiplangat Edwin(Process Analyst), Humprey Kamau Njeri(Quality Control) and Kelvin Birech(Team Leader) towards DEVELOPMENT OF AN ONLINE ICT ACCES SYSTEM BASED ON KENYA
 
 &nbsp;
 
-## DEVELOPING COMPUTER SYSTEMS ALSO INCLUDED.
-
-## Sofware Requirement Specification
+## Sofware Requirement specification
 
 &nbsp;  
 
-&nbsp;  
-  - [Sofware Requirement Specification](#sofware-requirement-specification)
-  - 
+- [ZETECH UNIVERSITY](#zetech-university)
+  - [ICT Department](#ict-department)
+  - [Sofware Requirement specification](#sofware-requirement-specification)
   - [Introductuion](#introductuion)
-  - 
   - [Objectives](#objectives)
-  - 
   - [The Users Of The System](#the-users-of-the-system)
     - [Skilled IT guys](#skilled-it-guys)
     - [Employers](#employers)
-    - 
   - [Functional Requirements](#functional-requirements)
     - [Creating User Accounts](#creating-user-accounts)
     - [Login](#login)
@@ -33,10 +25,12 @@ This repesitory is for my own projects MOSTLY ON DEVELOPMENT OF AN ONLINE ICT AC
     - [logout](#logout)
     - [Password Reset](#password-reset)
   - [Software Design Description](#software-design-description)
+    - [HomePage](#homepage)
+    - [Login+Register Page](#loginregister-page)
 
 ## Introductuion
 
-This is aN INDIVIDUAL project aimed towards the development of an online ICT service access system for easy access of ICT services from ICT proffesionals.
+This is a group project aimed towards the development of an online ICT service access system for easy access of ICT services from ICT proffesionals.
 This system will quench the high demand of ICT services by connecting employers with their employees of choice.
 
 ## Objectives
@@ -82,3 +76,17 @@ this will allow users to change their password and reset if forgotten
 ## Software Design Description
 
 It contains images of how the system look
+
+### HomePage
+
+![HomePage Image](assets/img/index.png)
+
+### Login+Register Page
+
+1. Register
+ ![Register](assets/img/regi.png)
+1. Login
+![Login](assets/img/loginn.png)
+
+search page
+![search image](search/search.png)
