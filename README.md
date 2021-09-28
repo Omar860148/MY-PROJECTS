@@ -2,7 +2,7 @@
 
 ## Introductuion
 
-This is a group project aimed towards the development of an online ICT service access system for easy access of ICT services from ICT proffesionals.
+This is an individual project aimed towards the development of an online ICT service access system for easy access of ICT services from ICT proffesionals.
 This system will quench the high demand of ICT services by connecting employers with their employees of choice.
 
 ## Objectives
